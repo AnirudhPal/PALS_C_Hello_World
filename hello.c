@@ -3,6 +3,5 @@
 
 // This is called the main of the code and is what runs first during execution.
 int main() {
-	// TODO: Place your code in the next line.
-	printf("Hello");
+	// TODO: Place your code in the next line. (Hint: Use printf().)
 }
